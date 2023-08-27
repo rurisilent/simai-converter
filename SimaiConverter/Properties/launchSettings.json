@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SimaiConverter": {
+      "commandName": "Project"
+    },
+    "Convert Debug": {
+      "commandName": "Project",
+      "commandLineArgs": "convert\r\n-i \"F:\\Maimai Map\\天灵灵地灵灵\\maidata_convertion.txt\"\r\n-o \"F:\\Maimai Map\\天灵灵地灵灵\\maidata_convertion.ma2\""
+    }
+  }
+}
